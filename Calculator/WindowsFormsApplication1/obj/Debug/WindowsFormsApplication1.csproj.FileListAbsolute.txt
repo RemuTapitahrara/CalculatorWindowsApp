@@ -1,0 +1,21 @@
+E:\Semester 3\Pemrograman Lanjut(4)(Prak)\Tugas\Pertamuan 1\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Semester 3\Pemrograman Lanjut(4)(Prak)\Tugas\Pertamuan 1\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Semester 3\Pemrograman Lanjut(4)(Prak)\Tugas\Pertamuan 1\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Calculator.resources
+E:\Semester 3\Pemrograman Lanjut(4)(Prak)\Tugas\Pertamuan 1\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Semester 3\Pemrograman Lanjut(4)(Prak)\Tugas\Pertamuan 1\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Semester 3\Pemrograman Lanjut(4)(Prak)\Tugas\Pertamuan 1\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Semester 3\Pemrograman Lanjut(4)(Prak)\Tugas\Pertamuan 1\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Semester 3\Pemrograman Lanjut(4)(Prak)\Tugas\Pertamuan 1\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Semester 3\Pemrograman Lanjut(4)(Prak)\Tugas\Pertamuan 1\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Semester 3\Pemrograman Lanjut(4)(Prak)\Tugas\Pertamuan 1\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Semester 3\Pemrograman Lanjut(4)(Prak)\Tugas\Pertamuan 1\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Semester 3\Pemrograman Lanjut(4)(Prak)\Tugas\Pertamuan 1\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Semester 3\Pemrograman Lanjut(4)(Prak)\Tugas\Pertamuan 1\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Semester 3\Pemrograman Lanjut(4)(Prak)\Tugas\Pertamuan 1\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Semester 3\Pemrograman Lanjut(4)(Prak)\Tugas\Pertamuan 1\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\Semester 3\Pemrograman Lanjut(4)(Prak)\Tugas\Pertamuan 1\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Calculator.resources
+G:\Semester 3\Pemrograman Lanjut(4)(Prak)\Tugas\Pertamuan 1\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Semester 3\Pemrograman Lanjut(4)(Prak)\Tugas\Pertamuan 1\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Calculator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Calculator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
